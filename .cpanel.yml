@@ -2,5 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/segh3617/repositories/SegoRoemahancPanel
-    - /bin/cp * $DEPLOYPATH
-  
+    - /bin/cp index.html $DEPLOYPATH
